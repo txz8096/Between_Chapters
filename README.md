@@ -72,8 +72,7 @@ If you use a platform that doesn't support persistent system prompts, paste `pro
 between-chapters/
 ├── README.md                  ← you are here
 ├── prompt.md                  ← the full system prompt; paste this to begin
-├── templates/
-│   └── day-30-portrait.md     ← optional template to capture your Day 30 output
+├── day-30-portrait.md         ← optional template to capture your Day 30 output
 └── CONTRIBUTING.md
 ```
 
